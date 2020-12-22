@@ -1,7 +1,7 @@
 ## StatsFC
 
 
-StatsFC is a https://github.com/TryStatsN/StatsN[https://github.com/TryStatsN/StatsN] fork, compatible with netcore 3.0
+StatsFC is a https://github.com/TryStatsN/StatsN fork, compatible with netcore 3.0
 
 ## Getting started
 
